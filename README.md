@@ -1,4 +1,5 @@
 # ESP32-Light-Controlled-Smart-Plug
+ESP32-based smart lighting automation using a VEML7700 lux sensor and Tuya cloud API. Monitors ambient light between 3-9PM, automatically turning on a smart plug when brightness drops below specific lux threshold.
 
 # Description
 
