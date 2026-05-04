@@ -3,7 +3,7 @@ ESP32-based smart lighting automation using a VEML7700 lux sensor and Tuya cloud
 
 ---
 
-# Description
+# Problem Statement
 
 I created this project to solve an issue I was having with my smart plug at home. To preface, my Tuya smart plug was used to control my living room light bulb. I used the built-in Globe smart plug app setting to turn on the plug and thus turn on my light bulb 40 mins before sunset (as that is usually the sweet spot for the light to turn it on). The problem was that on some days it would get dark earlier due to the day being gloomy and on other days it would still be bright out until sunset. Furthermore, the plug sometimes wouldn't even turn on due to the app failing to execute the command properly.
 
